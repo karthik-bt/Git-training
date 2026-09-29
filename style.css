@@ -1,0 +1,7 @@
+h1 {
+  color: #2a9d8f;         /* Changes the text color */
+  font-size: 36px;        /* Changes the text size */
+  font-family: Arial;     /* Changes the font family */
+  text-align: center;     /* Centers the heading */
+  font-weight: bold;      /* Makes the text bold */
+}
